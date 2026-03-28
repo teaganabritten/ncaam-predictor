@@ -50,8 +50,29 @@ NCAA Division I Men's Basketball features over 300 teams in 31 leagues known as 
 | --- | --- | --- |
 | Probabilities of Victory in Head-to-Head Team Matchups | A detailed explanation of predicting the outcome of sports games, applied to the sport of baseball | https://1drv.ms/b/c/6a550bae65b9bbfe/IQCoo7Y-FsfkSbSU9fKfzrn5AUnbsLPBb3uv1CKfmNsQ8RE?e=n3E2e6 |
 | March Madness bracketology: The ultimate guide | Provides an overview of how the tournament is set-up and how the bracket is formed | https://www.ncaa.com/news/basketball-men/article/2020-01-14/march-madness-bracketology-ultimate-guide |
-| The Ultimate Guide to Predictive College Basketball Analytics | Covers a wide variety of predictive analytics and how they are calculated | https://thepowerrank.com/cbb-analytics/ |
+| The Ultimate Guide to Predictive College Basketball Analytics | Covers a wide variety of predictive analytics and how they are calculated | https://1drv.ms/b/c/6a550bae65b9bbfe/IQDYfh2fnSgtQ56JZp9eK_rVAYYHyrhro7xMsMLF20wVNnw?e=UsMJJs |
 | Analytics in College Hoops: A New Type of March Madness | This article, using Michigan State as an example, covers how teams use data-driven processes to inform their decision making | https://www.michiganstateuniversityonline.com/resources/business-analytics/analytics-in-college-hoops-a-new-type-of-march-madness/ |
 | EvanMiya.com Resume Metrics | A database of various calculated metrics for ranking teams in the 25/26 season | https://evanmiya.com/?resume_metrics |
 | The science of strength: How data analytics is transforming college basketball | MIT looks at how data impacts basketball teams beyond just predictive metrics | https://1drv.ms/b/c/6a550bae65b9bbfe/IQBoxziryfllQ6zidZEQHIlUAalGdfUrrLYczeK6vWCv-sY?e=FQ21A7 |
 
+## Metadata
+
+### Entity Relationship Diagram 
+
+###
+
+### Bias Identification
+
+There are various sources of bias that can come into a basketball game, and differences in how teams are affected. For example, a team that plays faster will score more points per game on average than a team that plays at a slower pace, even if the slower team is more successful. Teams may also play different numbers of games during the season, which can have an effect on how many wins or losses a team has if they have more or less games. 
+
+### Bias Mitigation
+
+One of the important ways that bias in metrics can be mitigated is by using a wide number of metrics and objective measures to train the model. Using 10 or more columns, as there are present in this dataset, will help to reduce the variability and mean that significant weight is not placed on individual metrics or features in the dataset. Extra care will have to be paid to the weights of the model, especially if regularization methods are used, to ensure that biased features are not overweighted in the dataset to cause elements of bias to creep into the results or for one metric to decide the results. 
+
+### Rationale 
+
+The decision-making rationale in regards to model weights will be to lean towards including metrics over shrinking them dramatically or all the way towards zero. Additionally, data formatting decisions will be made to fit the intent of the statistic as much as possible. What this means is that any changes to the datatype, format, or any other data cleaning processes will be taken with regards to both the standard format for that widely-recognised and used statistic and to what makes most sense functionally for the analysis. 
+
+## Data Creation 
+
+The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API 
