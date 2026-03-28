@@ -1,13 +1,15 @@
 # DS 4320 Project 1: Predicting the Men's March Madness Tournament
-An analysis of which NCAA Men's Basketball teams are the most successful in the championship tournament, which teams might be most likely to reach the final four and win the title in future rounds, and what teams would come out on top if they were to face each other in the tournament. The model is trained using data from various seasons 
+An analysis of which NCAA Men's Basketball teams are the most successful in the championship tournament, which teams might be most likely to reach the final four and win the title in future rounds, and what teams would come out on top if they were to face each other in the tournament. The model is trained using data from various seasons and includes averages of 
 
 Name: Teagan Britten
+
 Computing ID: uup3cy
+
 DOI: 
 
-### Access the Press Release Here
-### Access the Data Here
-### Access the Data Pipeline Here
+### [Access the Press Release Here](pressrelease.md)
+### [Access the Data Here](https://1drv.ms/f/c/6a550bae65b9bbfe/IgCLSUE3acp8SqdHENqi9fJtAUzyQvq90YjV4GNCzZ49RTw?e=XurULA)
+### [Access the Data Pipeline Here](pipeline.ipynb)
 
 ## Problem Definition
 
@@ -41,6 +43,8 @@ Being able to accurately predict the outcome of basketball games could be very v
 NCAA Division I Men's Basketball features over 300 teams in 31 leagues known as conferences. Each year, the season finishes with a 68-team tournament of which the winner is declared the national champion. The winner of each league is given automatic entry into the tournament, with the remaining teams selected by a committee based on their performance across the season, referred to as their resume. The bubble includes the lowest ranked at-large teams (teams without an automatic entry) that have reasonable potential to qualify for the tournament. A bid refers to a team being invited to participate in the tournament. 
 
 ### Table 2: Domain Articles
+
+[Link to All Articles](https://1drv.ms/f/c/6a550bae65b9bbfe/IgDpPy3oLBabSIEaHf0wTiNBAYl-XSNj_kqXjkrSQjjIEok?e=Kg92FL)
 
 | Article Name | Summary | Link |
 | --- | --- | --- |
