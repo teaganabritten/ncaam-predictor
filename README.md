@@ -25,3 +25,29 @@ Being able to accurately predict the outcome of basketball games could be very v
 
 ## Domain Exposition
 
+### Table 1: Definitions
+
+| Term | Definition |
+| --- | --- |
+| NET (NCAA Evaluation Tool) | An algorithmic metric used to rank all division I teams based on their performance |
+| FG% | Field Goal Percentage is the proportion of made shots from the field of all attempts |
+| eFG% | effective Field Goal percentage is a metric using field goal percentage to 
+| Seed | Where the team is ranked 1-16 within one of four regions of the tournament |
+| Bubble | The ranking area for teams that are on the edge of making the tournament, either in the 'field' or out |
+| WAB | Wins Above Bubble represents the difference in the number of wins a team has compared to the expected number of wins an average "bubble" team would earn against a given teams' schedule |
+| Quadrants | Games for teams are divided into four quadrants based on opponent quality and location, with Quadrant 1 games being the most difficult and Quadrant 4 wins being the least difficult |
+
+### Paragraph:
+NCAA Division I Men's Basketball features over 300 teams in 31 leagues known as conferences. Each year, the season finishes with a 68-team tournament of which the winner is declared the national champion. The winner of each league is given automatic entry into the tournament, with the remaining teams selected by a committee based on their performance across the season, referred to as their resume. The bubble includes the lowest ranked at-large teams (teams without an automatic entry) that have reasonable potential to qualify for the tournament. A bid refers to a team being invited to participate in the tournament. 
+
+### Table 2: Domain Articles
+
+| Article Name | Summary | Link |
+| --- | --- | --- |
+| Probabilities of Victory in Head-to-Head Team Matchups | A detailed explanation of predicting the outcome of sports games, applied to the sport of baseball | https://1drv.ms/b/c/6a550bae65b9bbfe/IQCoo7Y-FsfkSbSU9fKfzrn5AUnbsLPBb3uv1CKfmNsQ8RE?e=n3E2e6 |
+| March Madness bracketology: The ultimate guide | Provides an overview of how the tournament is set-up and how the bracket is formed | https://www.ncaa.com/news/basketball-men/article/2020-01-14/march-madness-bracketology-ultimate-guide |
+| The Ultimate Guide to Predictive College Basketball Analytics | Covers a wide variety of predictive analytics and how they are calculated | https://thepowerrank.com/cbb-analytics/ |
+| Analytics in College Hoops: A New Type of March Madness | This article, using Michigan State as an example, covers how teams use data-driven processes to inform their decision making | https://www.michiganstateuniversityonline.com/resources/business-analytics/analytics-in-college-hoops-a-new-type-of-march-madness/ |
+| EvanMiya.com Resume Metrics | A database of various calculated metrics for ranking teams in the 25/26 season | https://evanmiya.com/?resume_metrics |
+| The science of strength: How data analytics is transforming college basketball | MIT looks at how data impacts basketball teams beyond just predictive metrics | https://1drv.ms/b/c/6a550bae65b9bbfe/IQBoxziryfllQ6zidZEQHIlUAalGdfUrrLYczeK6vWCv-sY?e=FQ21A7 |
+
