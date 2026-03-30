@@ -52,7 +52,6 @@ NCAA Division I Men's Basketball features over 300 teams in 31 leagues known as 
 | March Madness bracketology: The ultimate guide | Provides an overview of how the tournament is set-up and how the bracket is formed | https://www.ncaa.com/news/basketball-men/article/2020-01-14/march-madness-bracketology-ultimate-guide |
 | The Ultimate Guide to Predictive College Basketball Analytics | Covers a wide variety of predictive analytics and how they are calculated | https://1drv.ms/b/c/6a550bae65b9bbfe/IQDYfh2fnSgtQ56JZp9eK_rVAYYHyrhro7xMsMLF20wVNnw?e=UsMJJs |
 | Analytics in College Hoops: A New Type of March Madness | This article, using Michigan State as an example, covers how teams use data-driven processes to inform their decision making | https://www.michiganstateuniversityonline.com/resources/business-analytics/analytics-in-college-hoops-a-new-type-of-march-madness/ |
-| EvanMiya.com Resume Metrics | A database of various calculated metrics for ranking teams in the 25/26 season | https://evanmiya.com/?resume_metrics |
 | The science of strength: How data analytics is transforming college basketball | MIT looks at how data impacts basketball teams beyond just predictive metrics | https://1drv.ms/b/c/6a550bae65b9bbfe/IQBoxziryfllQ6zidZEQHIlUAalGdfUrrLYczeK6vWCv-sY?e=FQ21A7 |
 
 ## Metadata
@@ -75,4 +74,4 @@ The decision-making rationale in regards to model weights will be to lean toward
 
 ## Data Creation 
 
-The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API 
+The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API
