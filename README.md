@@ -25,6 +25,8 @@ Sports games, by nature but also with time, involve a significant amount of data
 ### Motivation
 Being able to accurately predict the outcome of basketball games could be very valuable to a number of parties. One of these are teams looking at their potential opponents. If a team is preparing for the NCAA tournament, in which turnaround periods between games are incredibly slim, then knowing that one team is far more likely than the other to be the next opponent could help that team decide how to weight their preparations going into that round of the tournament. Athletic departments would also be able to better plan and allocate resources if they have a good understanding of if and when a team might be playing. The organisers of the tournament can also better prepare for what accommodations are needed for specific teams, prepare to sell tickets for said teams, and advertise to fans of those teams that might want to attend their games.
 
+### [New Predictive Model Can Predict the Most Unpredictable Tournament](pressrelease.md)
+
 ## Domain Exposition
 
 ### Table 1: Definitions
@@ -74,4 +76,4 @@ The decision-making rationale in regards to model weights will be to lean toward
 
 ## Data Creation 
 
-The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API
+The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API for the 
