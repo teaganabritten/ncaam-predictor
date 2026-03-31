@@ -48,11 +48,11 @@ NCAA Division I Men's Basketball features over 300 teams in 31 leagues known as 
 
 | Article Name | Summary | Link |
 | --- | --- | --- |
-| Probabilities of Victory in Head-to-Head Team Matchups | A detailed explanation of predicting the outcome of sports games, applied to the sport of baseball | https://1drv.ms/b/c/6a550bae65b9bbfe/IQCoo7Y-FsfkSbSU9fKfzrn5AUnbsLPBb3uv1CKfmNsQ8RE?e=n3E2e6 |
-| March Madness bracketology: The ultimate guide | Provides an overview of how the tournament is set-up and how the bracket is formed | https://www.ncaa.com/news/basketball-men/article/2020-01-14/march-madness-bracketology-ultimate-guide |
-| The Ultimate Guide to Predictive College Basketball Analytics | Covers a wide variety of predictive analytics and how they are calculated | https://1drv.ms/b/c/6a550bae65b9bbfe/IQDYfh2fnSgtQ56JZp9eK_rVAYYHyrhro7xMsMLF20wVNnw?e=UsMJJs |
-| Analytics in College Hoops: A New Type of March Madness | This article, using Michigan State as an example, covers how teams use data-driven processes to inform their decision making | https://www.michiganstateuniversityonline.com/resources/business-analytics/analytics-in-college-hoops-a-new-type-of-march-madness/ |
-| The science of strength: How data analytics is transforming college basketball | MIT looks at how data impacts basketball teams beyond just predictive metrics | https://1drv.ms/b/c/6a550bae65b9bbfe/IQBoxziryfllQ6zidZEQHIlUAalGdfUrrLYczeK6vWCv-sY?e=FQ21A7 |
+| Probabilities of Victory in Head-to-Head Team Matchups | A detailed explanation of predicting the outcome of sports games, applied to the sport of baseball | [Access Here](https://1drv.ms/b/c/6a550bae65b9bbfe/IQCoo7Y-FsfkSbSU9fKfzrn5AUnbsLPBb3uv1CKfmNsQ8RE?e=n3E2e6) |
+| March Madness bracketology: The ultimate guide | Provides an overview of how the tournament is set-up and how the bracket is formed | [Access Here](https://1drv.ms/b/c/6a550bae65b9bbfe/IQDyBeFlp3txSppLTbMxiOlgAcmxAigQh778PHsd8xpthoM?e=cF0KT3) |
+| The Ultimate Guide to Predictive College Basketball Analytics | Covers a wide variety of predictive analytics and how they are calculated | [Access Here](https://1drv.ms/b/c/6a550bae65b9bbfe/IQDYfh2fnSgtQ56JZp9eK_rVAYYHyrhro7xMsMLF20wVNnw?e=UsMJJs) |
+| Analytics in College Hoops: A New Type of March Madness | This article, using Michigan State as an example, covers how teams use data-driven processes to inform their decision making | [Access Here](https://1drv.ms/b/c/6a550bae65b9bbfe/IQArNTgxKjnpTIBnYVF-wygcAXn1a50hIx7ZJ1Ilwz6zxn0?e=cLjYrM) |
+| The science of strength: How data analytics is transforming college basketball | MIT looks at how data impacts basketball teams beyond just predictive metrics | [Access Here](https://1drv.ms/b/c/6a550bae65b9bbfe/IQBoxziryfllQ6zidZEQHIlUAalGdfUrrLYczeK6vWCv-sY?e=FQ21A7) |
 
 ## Metadata
 
