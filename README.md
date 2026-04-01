@@ -5,7 +5,7 @@ Name: Teagan Britten
 
 Computing ID: uup3cy
 
-DOI: 
+DOI: [![DOI](https://zenodo.org/badge/1190133898.svg)](https://doi.org/10.5281/zenodo.19363484)
 
 ### [Access the Press Release Here](pressrelease.md)
 ### [Access the Data Here](https://1drv.ms/f/c/6a550bae65b9bbfe/IgCLSUE3acp8SqdHENqi9fJtAUzyQvq90YjV4GNCzZ49RTw?e=XurULA)
