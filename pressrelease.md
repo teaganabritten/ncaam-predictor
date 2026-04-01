@@ -7,3 +7,5 @@ In close to one hundred years of competition, and many years of attempting to pr
 
 ## Solution Description
 This new model, built and trained using data and calculated metrics from several years of men's college basketball, will use the rich collection of data to predict the outcomes of games in the tournament. The output for each game would report which team the model determined to be the winner, an approximate confidence of that team being the winner, and what factor/s would contribute to that team winning. This will provide both an accurate prediction, due to the depth of the analysis and the data driving it, and the explanation of the decisions that will help teams and other groups make decisions based on what the model has decided. 
+
+![image](output.png)

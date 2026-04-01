@@ -77,3 +77,11 @@ The decision-making rationale in regards to model weights will be to lean toward
 ## Data Creation 
 
 The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API for the 
+
+### Files from Data Productions
+
+| File Name | Purpose | Access | 
+| --- | --- | --- |
+| generate_data.py | abc | [Access Here](generate_data.py) |
+| abc.csv | 
+
