@@ -60,7 +60,8 @@ NCAA Division I Men's Basketball features over 300 teams in 31 leagues known as 
 
 ### Entity Relationship Diagram 
 
-###
+
+### [Access Here](https://1drv.ms/f/c/6a550bae65b9bbfe/IgA959OQhEKQQb-JovXorKfbARzcyvVQ9ytqacBknS5tQR4?e=gEBZn3)
 
 ### Bias Identification
 
@@ -76,12 +77,14 @@ The decision-making rationale in regards to model weights will be to lean toward
 
 ## Data Creation 
 
-The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API for the 
+The data in this dataset was pulled from several sources hosting data from men's college basketball since 2015. One of these sources, CBBPy, functions as an API that allows calls to retrieve data on individual games, players, and season-long statistics for teams. I collected data from this API for season-long averages that include the number of points a team scores or allows per game and other information. The several functions contained in the generate_data 
 
 ### Files from Data Productions
 
 | File Name | Purpose | Access | 
 | --- | --- | --- |
-| generate_data.py | abc | [Access Here](generate_data.py) |
-| abc.csv | 
+| generate_data.ipynb | A Jupyter notebook containing functions that pull data from various sources and calculate columns for use in the machine learning process | [Access Here](generate_data.py) |
+| /data | A directory containing database files, parquet files, and CSV files of the data as pulled from the multiple data sources | [Access Here](/data) | 
+| pipeline.ipynb | A Jupyter notebook containing the neural network used to predict team performance in the NCAAM tournament | [Access Here](pipeline.ipynb) |
+
 
