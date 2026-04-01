@@ -1,5 +1,5 @@
 # DS 4320 Project 1: Predicting the Men's March Madness Tournament
-An analysis of which NCAA Men's Basketball teams are the most successful in the championship tournament, which teams might be most likely to reach the final four and win the title in future rounds, and what teams would come out on top if they were to face each other in the tournament. The model is trained using data from various seasons and includes averages of 
+An analysis of which NCAA Men's Basketball teams are the most successful in the championship tournament, which teams might be most likely to reach the final four and win the title in future rounds, and what teams would come out on top if they were to face each other in the tournament. The model is trained using data from various seasons and includes averages of scoring and other elements of the game of basketball, and other metrics to determine how well a team faired against its opponents. The model predicts to which stage a team will advance to in the tournament
 
 Name: Teagan Britten
 
